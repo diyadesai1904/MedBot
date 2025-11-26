@@ -41,25 +41,6 @@ This MVP demonstrates:
 
 ---
 
-## 📂 Project Structure
-
-medbot-mvp/
-│
-├── architecture_diagram.png
-├── class_design.png
-├── data_flow_diagram.png
-├── database_schema.png
-├── system_pipeline.png
-│
-├── kb_metadata.json
-├── medical_kb.faiss
-├── medical_kb.json
-│
-├── requirement-summary.txt
-├── README.md
-├── webscrape.ipynb
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Create environment (optional)
